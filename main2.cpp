@@ -1,7 +1,10 @@
 #include <iostream>
-using namespace std;
+using namespace std;  
 int main()
-{
-    cout<<"Hello World2122"<<endl;
+{std::cout<<"Hello World2"<<std::endl;
     /* code */
-    return 0;}
+   
+    system("pause");
+    cout<<"WOW";
+     return 0;
+}

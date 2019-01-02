@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
-{std::cout<<"Hello Worldhbh"<<std::endl;
+{std::cout<<"Hello World"<<std::endl;
     /* code */
     return 0;
 }
