@@ -6,6 +6,7 @@ int main()
    
     system("pause");
     cout<<"WOW";
+    cout<<"private commit";
      return 0;
 }
 
